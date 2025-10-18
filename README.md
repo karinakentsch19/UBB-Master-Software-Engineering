@@ -7,3 +7,4 @@
 - Programming paradigms
 - Requirements engineering
 - Sustainability software engineering
+- Academic Ethics and Integrity. Methodology of Scientific Research
